@@ -1,1 +1,1 @@
-# Find-S-Algorithm
+# Find-S-Algorithm by prakash reddy
